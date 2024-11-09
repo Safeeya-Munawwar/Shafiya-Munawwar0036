@@ -1,5 +1,5 @@
 👋 Welcome to my GitHub!
-- I’m @Shafiya-Munawwar0036, and I’m passionate about technology and development.
+- I’m @Shafiya Munawwar, and I’m passionate about technology and development.
 
 - 🔧 Interests: IT, coding, programming, systems implementation, web development, and app creation.
 - 📚 Currently Learning: Higher National Diploma in Information Technology (HNDIT) at SLIATE ATI Kandy.
