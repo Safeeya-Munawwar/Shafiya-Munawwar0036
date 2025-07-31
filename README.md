@@ -19,6 +19,8 @@
 - Skilled in both frontend and backend development, mentoring students, and contributing to meaningful digital solutions.
 - Always eager to learn modern technologies, collaborate on open-source projects, and build impactful software.
 
+---
+
 ## 🛠 Skills
 
 ### Technical Skills
