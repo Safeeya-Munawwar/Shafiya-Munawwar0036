@@ -21,108 +21,6 @@
 
 ---
 
-## 🎓 Education
-
-| Institution                                      | Qualification                          | Year       |
-| ------------------------------------------------|------------------------------------ |------------|
-| Sri Lanka Institute of Advanced Technological Education (SLIATE) - ATI – Kandy | Higher National Diploma in Information Technology (HNDIT) | 2022 - Present |
-| University of Peradeniya                         | English Extension Course             | February 2024 |
-| CP/ K/ Denu/ Arafa/ Muslim Maha Vidyalaya       | Advanced Level – Arts Stream         | 2021       |
-| CP/ K/ Denu/ Arafa/ Muslim Maha Vidyalaya       | Ordinary Level                      | 2018       |
-
----
-
-## 🛠 Skills
-
-### Technical Skills
-
-- **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap
-- **Backend:** PHP, Node.js, Express.js, Java, Python, C#, Sequelize ORM
-- **Databases:** MySQL, MongoDB, DBMS
-- **Mobile App Development:** React Native
-- **Version Control & Deployment:** Git, GitHub, RESTful API Integration, Hosting (Vercel)
-- **Frameworks & Tools:** VS Code, NetBeans, Swing, Laravel, Figma
-- **Other:** Microsoft Office Suite
-
-### Soft Skills
-
-- Effective Communication
-- Problem Solving & Debugging
-- Time Management
-- Teamwork & Collaboration
-- Leadership
-- Self-Learning & Mentoring
-
-### Languages
-
-- English
-- Sinhala
-- Tamil
-
----
-
-## 📜 Certifications
-
-| Certification                                 | Issuer                        | Date          |
-|----------------------------------------------|------------------------------|---------------|
-| Python for Beginners                         | University of Moratuwa        | February 2025 |
-| Python Programming Using Visual Studio Code | Microsoft Learn Student Ambassadors | February 2025 |
-| Build a Social Media App with MERN Stack    | SkillEcted                   | February 2025 |
-| Python & Django REST API Bootcamp            | Udemy                        | January 2025  |
-| Learn PHP Programming: Create Dynamic Websites with MySQL | Udemy          | October 2024  |
-
----
-
-## 📂 Projects
-
-### Edu Certify – Result Sheet & Certificate Generator  
-[GitHub Repository](https://github.com/Safeeya-Munawwar)  
-- Technologies: React.js, Node.js, Express, MySQL, Tailwind CSS  
-- A full-stack web application for educational institutes to generate academic result sheets and certificates efficiently.
-
-### MediCare Lanka - Pharmacy Management System  
-[GitHub Repository](https://github.com/Safeeya-Munawwar)  
-- Technologies: PHP, HTML, CSS, JavaScript, MySQL  
-- A system to automate pharmacy operations including customers, medicines, suppliers, invoices, and report generation.
-
-### Library Management System  
-[GitHub Repository](https://github.com/Safeeya-Munawwar)  
-- Technologies: Java, Swing, MySQL, JDBC  
-- A Java-based library system supporting role-based access and modular design with MVC architecture.
-
-### Medicine Expiry Date Reminder App  
-[GitHub Repository](https://github.com/Safeeya-Munawwar)  
-- Technologies: HTML, CSS, JavaScript  
-- A tool to manage medicine inventories and alert expiry dates.
-
-### Web Based Personal Portfolio  
-[Live Demo](https://safeeya-munawwar-personal-portfolio.vercel.app/)  
-- Technologies: Next.js, TailwindCSS, React.js, Formspree, Vercel hosting.
-
-### Web & Mobile Based Personal Portfolio  
-- Technologies: HTML5, CSS3, JavaScript, EmailJS for contact forms.
-
----
-
-## 📞 Contact Information
-
-- **Phone:** +94 75 090 6149  
-- **Email:** shafiyasha0036@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/safeeya-munawwar](https://www.linkedin.com/in/safeeya-munawwar)  
-- **GitHub:** [https://github.com/Safeeya-Munawwar](https://github.com/Safeeya-Munawwar)  
-- **Portfolio:** [https://safeeya-munawwar-personal-portfolio.vercel.app/](https://safeeya-munawwar-personal-portfolio.vercel.app/)
-
----
-
-## 👩‍🏫 Referees
-
-| Name                      | Position                   | Department                 | Contact                         |
-|---------------------------|----------------------------|----------------------------|--------------------------------|
-| Ms. P.G.D.K Kumarihamy    | Head of Department         | Department of Information Technology, ATI– Kandy, SLIATE | dilinikanchana@sliate.ac.lk <br> +94 77 788 2155 |
-| Mr. Nuwan Jayasekara      | Lecturer, ICT              | Department of Information Technology, ATI – Kandy, SLIATE | nuwanj@sliate.ac.lk <br> +94 71 666 1645 |
-
----
-
 ## 🧰 Languages & Tools
 
 <p align="left">
@@ -143,6 +41,16 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
 </p>
+
+---
+
+## 📞 Contact Information
+
+- **Phone:** +94 75 090 6149  
+- **Email:** shafiyasha0036@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/safeeya-munawwar](https://www.linkedin.com/in/safeeya-munawwar)  
+- **GitHub:** [https://github.com/Safeeya-Munawwar](https://github.com/Safeeya-Munawwar)  
+- **Portfolio:** [https://safeeya-munawwar-personal-portfolio.vercel.app/](https://safeeya-munawwar-personal-portfolio.vercel.app/)
 
 ---
 
@@ -171,10 +79,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Safeeya-Munawwar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Safeeya's GitHub Stats" width="49%" style="display:inline-block; vertical-align:top; margin-right: 1%;" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Safeeya-Munawwar&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="49%" style="display:inline-block; vertical-align:top;" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Safeeya-Munawwar&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE" alt="GitHub Streak"/>
 
   <br/><br/>
 
